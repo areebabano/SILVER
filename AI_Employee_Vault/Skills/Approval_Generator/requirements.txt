@@ -1,0 +1,3 @@
+# Approval Request Generator — Gold Tier
+# All parsing uses Python standard library — no extra installs needed.
+python-dotenv>=1.0.0

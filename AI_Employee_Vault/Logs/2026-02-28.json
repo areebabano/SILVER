@@ -1,0 +1,41 @@
+{
+  "log_date": "2026-02-28",
+  "tier": "Gold",
+  "entries": [
+    {
+      "timestamp": "2026-02-28T20:09:51Z",
+      "level": "AUDIT",
+      "component": "ApprovalGate",
+      "event": "approval_request_created",
+      "file": "APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md",
+      "source_plan": "PLAN_EMAIL_TEST_SILVER.md",
+      "recipient": "client@test.com",
+      "status": "success",
+      "actor": "Approval Gate (Silver Tier)"
+    },
+    {
+      "timestamp": "2026-02-28T21:26:14Z",
+      "level": "ERROR",
+      "component": "ActionExecutor",
+      "event": "action_approval_request_failed",
+      "file": "APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md",
+      "status": "failed",
+      "message": "APPROVAL_REQUEST action FAILED for 'APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md': Recipient address is empty.  Add 'to_email: address@example.com' to the approved plan front matter, or ensure the source Needs_Action file has a valid 'from:' field.",
+      "actor": "AI Employee (Gold Tier)",
+      "dry_run": false,
+      "action_type": "approval_request",
+      "recipient": ""
+    },
+    {
+      "timestamp": "2026-02-28T22:17:51Z",
+      "level": "AUDIT",
+      "component": "ApprovalGate",
+      "event": "approval_request_created",
+      "file": "APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_221751.md",
+      "source_plan": "PLAN_EMAIL_TEST_SILVER.md",
+      "recipient": "client@test.com",
+      "status": "success",
+      "actor": "Approval Gate (Silver Tier)"
+    }
+  ]
+}

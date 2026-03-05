@@ -1,0 +1,2 @@
+2026-03-06 03:48:51,177  [INFO    ]  ENV loaded: root=D:\AI_Employee_Vault\.env (exists=True), local=D:\AI_Employee_Vault\Skills\Gmail_Watcher\.env (exists=False)
+2026-03-06 03:48:51,177  [INFO    ]  GMAIL_USER=areebabano986@gmail.com, APP_PASSWORD=***lgra, VAULT=D:\AI_Employee_Vault

@@ -1,0 +1,2 @@
+# Daily Briefing — Bronze Tier
+python-dotenv>=1.0.0

@@ -1,0 +1,17 @@
+# Environment files with secrets
+.env
+*.env
+!*.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Playwright profiles
+.wa_watcher_playwright/
+.li_watcher_playwright/
+
+# OS files
+.DS_Store
+Thumbs.db

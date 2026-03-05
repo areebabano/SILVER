@@ -1,0 +1,137 @@
+2026-03-01 01:09:50,975 [INFO] Approval Gate starting â€” vault: /mnt/d/AI_Employee_Vault
+2026-03-01 01:09:51,037 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-01 01:09:51,052 [INFO] Dashboard updated
+2026-03-01 01:09:51,148 [INFO] Approval created for 'PLAN_EMAIL_TEST_SILVER.md'  â†’  recipient: client@test.com
+2026-03-01 01:09:51,159 [INFO] Scan complete â€” 1 new approval request(s) created
+2026-03-01 01:10:34,578 [INFO] Approval Gate starting â€” vault: /mnt/d/AI_Employee_Vault
+2026-03-01 01:10:34,625 [INFO] Scan complete â€” 0 new approval request(s) created
+2026-03-01 03:02:19,478 [INFO] Approval Gate starting — vault: D:\
+2026-03-01 03:02:19,479 [ERROR] Plans folder not found: D:\Plans
+2026-03-01 03:02:19,480 [INFO] Next scan in 60 seconds…
+2026-03-01 03:03:19,488 [ERROR] Plans folder not found: D:\Plans
+2026-03-01 03:03:19,505 [INFO] Next scan in 60 seconds…
+2026-03-01 03:04:19,532 [ERROR] Plans folder not found: D:\Plans
+2026-03-01 03:04:19,549 [INFO] Next scan in 60 seconds…
+2026-03-01 03:05:19,560 [ERROR] Plans folder not found: D:\Plans
+2026-03-01 03:05:19,561 [INFO] Next scan in 60 seconds…
+2026-03-01 03:06:19,567 [ERROR] Plans folder not found: D:\Plans
+2026-03-01 03:06:19,569 [INFO] Next scan in 60 seconds…
+2026-03-01 03:07:19,571 [ERROR] Plans folder not found: D:\Plans
+2026-03-01 03:07:19,571 [INFO] Next scan in 60 seconds…
+2026-03-01 03:17:07,401 [INFO] Approval Gate starting — vault: D:\
+2026-03-01 03:17:07,411 [ERROR] Plans folder not found: D:\Plans
+2026-03-01 03:17:51,720 [INFO] Approval Gate starting — vault: D:\AI_Employee_Vault
+2026-03-01 03:17:51,767 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_221751.md
+2026-03-01 03:17:51,771 [INFO] Dashboard updated
+2026-03-01 03:17:52,028 [INFO] Scan complete — 1 new approval request(s) created
+2026-03-01 03:19:33,874 [INFO] Approval Gate starting — vault: D:\AI_Employee_Vault
+2026-03-01 03:19:33,878 [INFO] Scan complete — 0 new approval request(s) created
+2026-03-03 00:20:23,629 [INFO] Approval Gate starting — vault: D:\AI_Employee_Vault
+2026-03-03 00:20:23,691 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_NO_RECIPIENT_TEST_20260302_192023.md
+2026-03-03 00:20:23,697 [INFO] Dashboard updated
+2026-03-03 00:20:23,865 [INFO] Scan complete — 1 new approval request(s) created
+2026-03-03 00:25:41,602 [INFO] Approval Gate starting — vault: D:\AI_Employee_Vault
+2026-03-03 00:25:41,734 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_MALFORMED_TEST_20260302_192541.md
+2026-03-03 00:25:41,777 [INFO] Dashboard updated
+2026-03-03 00:25:42,000 [INFO] Scan complete — 1 new approval request(s) created
+2026-03-03 00:59:41,012 [INFO] Approval Gate starting -- vault: D:\AI_Employee_Vault
+2026-03-03 00:59:41,022 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_195941.md
+2026-03-03 00:59:41,035 [INFO] Dashboard updated
+2026-03-03 00:59:41,055 [INFO] Approval created for 'PLAN_EMAIL_TEST_SILVER.md' -> recipient: client@test.com
+2026-03-03 00:59:41,056 [INFO] Scan complete -- 1 new approval request(s) created
+2026-03-03 01:37:58,649 [INFO] Approval Gate starting -- vault: D:\AI_Employee_Vault
+2026-03-03 01:37:58,680 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_BAD_SOURCE_20260302_203758.md
+2026-03-03 01:37:58,683 [INFO] Dashboard updated
+2026-03-03 01:37:58,688 [INFO] Approval created for 'PLAN_EMAIL_BAD_SOURCE.md' -> recipient: ghost@nowhere.com
+2026-03-03 01:37:58,806 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_BATCH_A_20260302_203758.md
+2026-03-03 01:37:58,843 [INFO] Dashboard updated
+2026-03-03 01:37:58,881 [INFO] Approval created for 'PLAN_EMAIL_BATCH_A.md' -> recipient: alice@example.com
+2026-03-03 01:37:58,963 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_BATCH_B_20260302_203758.md
+2026-03-03 01:37:58,997 [INFO] Dashboard updated
+2026-03-03 01:37:59,048 [INFO] Approval created for 'PLAN_EMAIL_BATCH_B.md' -> recipient: bob@example.com
+2026-03-03 01:37:59,148 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_BATCH_C_20260302_203759.md
+2026-03-03 01:37:59,180 [INFO] Dashboard updated
+2026-03-03 01:37:59,230 [INFO] Approval created for 'PLAN_EMAIL_BATCH_C.md' -> recipient: carol@example.com
+2026-03-03 01:37:59,312 [WARNING] Could not resolve recipient for PLAN_EMAIL_NO_RECIPIENT.md -- approval will need manual to_email before execution
+2026-03-03 01:37:59,315 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_NO_RECIPIENT_20260302_203759.md
+2026-03-03 01:37:59,371 [INFO] Dashboard updated
+2026-03-03 01:37:59,415 [INFO] Approval created for 'PLAN_EMAIL_NO_RECIPIENT.md' -> recipient: unknown
+2026-03-03 01:37:59,447 [INFO] Approval request written: APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_203759.md
+2026-03-03 01:37:59,474 [INFO] Dashboard updated
+2026-03-03 01:37:59,501 [INFO] Approval created for 'PLAN_EMAIL_TEST_SILVER.md' -> recipient: client@test.com
+2026-03-03 01:37:59,501 [INFO] Scan complete -- 6 new approval request(s) created
+2026-03-03 01:38:10,380 [INFO] Approval Gate starting -- vault: D:\AI_Employee_Vault
+2026-03-03 01:38:10,465 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:14:32,708 [INFO] Approval request written: APPROVAL_PLAN_VALIDATION_TEST_SILVER_20260305_181432.md
+2026-03-05 23:14:32,720 [INFO] Dashboard updated
+2026-03-05 23:14:32,729 [INFO] Approval created for 'PLAN_VALIDATION_TEST_SILVER.md' -> recipient: test@validation.com
+2026-03-05 23:14:32,729 [INFO] Scan complete -- 1 new approval request(s) created
+2026-03-05 23:29:03,730 [INFO] Approval Gate starting -- vault: D:\AI_Employee_Vault
+2026-03-05 23:29:03,742 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:29:03,743 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:30:03,752 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:30:03,752 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:31:03,767 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:31:03,767 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:32:03,777 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:32:03,777 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:33:03,794 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:33:03,796 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:34:03,805 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:34:03,805 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:35:03,816 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:35:03,816 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:36:03,830 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:36:03,831 [INFO] Next scan in 60 seconds ...
+2026-03-05 23:37:03,843 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-05 23:37:03,844 [INFO] Next scan in 60 seconds ...
+2026-03-06 00:05:38,561 [INFO] Approval request written: APPROVAL_PLAN_GATE_TEST_PASS_20260305_190538.md
+2026-03-06 00:05:38,584 [INFO] Dashboard updated
+2026-03-06 00:05:38,588 [INFO] Approval created for 'PLAN_GATE_TEST_PASS.md' -> recipient: client@gatetest.com
+2026-03-06 00:05:38,589 [INFO] Scan complete -- 1 new approval request(s) created
+2026-03-06 00:05:38,680 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 00:05:38,885 [INFO] APPROVED: TEST_WATCHER_APPROVE.md
+2026-03-06 00:05:38,910 [INFO]   -> Archived to Done/TEST_WATCHER_APPROVE.md
+2026-03-06 00:05:38,911 [INFO] REJECTED: TEST_WATCHER_REJECT.md
+2026-03-06 00:05:38,955 [INFO]   -> Archived to Done/REJECTED_TEST_WATCHER_REJECT.md
+2026-03-06 03:43:13,909 [INFO] Approval Gate starting -- vault: D:\AI_Employee_Vault
+2026-03-06 03:43:13,930 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:43:13,930 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:44:13,942 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:44:13,942 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:45:13,955 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:45:13,956 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:46:13,990 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:46:13,991 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:47:14,006 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:47:14,007 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:48:14,052 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:48:14,054 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:49:14,072 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:49:14,072 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:50:14,085 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:50:14,086 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:51:14,095 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:51:14,096 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:52:14,104 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:52:14,104 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:53:14,115 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:53:14,115 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:54:14,131 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:54:14,132 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:55:14,140 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:55:14,140 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:56:14,157 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:56:14,158 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:57:14,165 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:57:14,165 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:58:14,181 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:58:14,181 [INFO] Next scan in 60 seconds ...
+2026-03-06 03:59:14,190 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 03:59:14,190 [INFO] Next scan in 60 seconds ...
+2026-03-06 04:00:50,249 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 04:00:50,249 [INFO] Next scan in 60 seconds ...
+2026-03-06 04:01:50,297 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 04:01:50,298 [INFO] Next scan in 60 seconds ...
+2026-03-06 04:02:50,319 [INFO] Scan complete -- 0 new approval request(s) created
+2026-03-06 04:02:50,320 [INFO] Next scan in 60 seconds ...

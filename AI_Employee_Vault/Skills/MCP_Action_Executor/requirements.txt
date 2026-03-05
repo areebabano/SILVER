@@ -1,0 +1,5 @@
+# MCP Action Executor — Gold Tier
+# playwright is only needed for WhatsApp + LinkedIn dispatch.
+# Run: playwright install chromium  (if not already installed for other watchers)
+python-dotenv>=1.0.0
+playwright>=1.43.0

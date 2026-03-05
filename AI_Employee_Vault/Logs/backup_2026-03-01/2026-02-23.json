@@ -1,0 +1,91 @@
+{
+  "log_date": "2026-02-23",
+  "tier": "Bronze",
+  "entries": [
+    {
+      "timestamp": "2026-02-23T00:00:00Z",
+      "level": "INFO",
+      "component": "Planner",
+      "event": "planner_run",
+      "message": "Planner executed. Scanned /Needs_Action.",
+      "files_found": 0,
+      "plans_created": 0,
+      "plans_skipped": 0,
+      "result": "no_files_to_process"
+    },
+    {
+      "timestamp": "2026-02-23T17:55:35Z",
+      "level": "INFO",
+      "component": "Executor",
+      "event": "bronze_processing",
+      "action": "bronze_processing",
+      "file": "none",
+      "status": "success",
+      "message": "Executor run completed. /Needs_Action scanned. No files present for processing.",
+      "files_found": 0,
+      "success": 0,
+      "failed": 0
+    },
+    {
+      "timestamp": "2026-02-23T17:55:35Z",
+      "level": "INFO",
+      "component": "Summarizer",
+      "event": "daily_summary_generated",
+      "action": "daily_summary",
+      "file": "DAILY_SUMMARY_2026-02-23.md",
+      "status": "success",
+      "message": "Daily summary generated from 1 log file. 2 entries processed. 0 critical errors.",
+      "log_files_read": 1,
+      "total_entries": 2,
+      "success_entries": 1,
+      "failed_entries": 0,
+      "critical_errors": 0
+    },
+    {
+      "timestamp": "2026-02-23T18:01:11Z",
+      "level": "INFO",
+      "component": "DocumentWriter",
+      "event": "instructions_generated",
+      "action": "write_file",
+      "file": "INSTRUCTIONS.md",
+      "status": "success",
+      "message": "INSTRUCTIONS.md created in vault root. Covers Drop_Folder intake, pipeline stages, log reading, Dashboard metrics, and error handling."
+    },
+    {
+      "timestamp": "2026-02-23T18:19:01Z",
+      "level": "AUDIT",
+      "component": "Router",
+      "event": "file_routed",
+      "file": "2026-02-23_TestTask.txt",
+      "status": "success",
+      "message": "'2026-02-23_TestTask.txt' copied from Drop_Folder to Needs_Action."
+    },
+    {
+      "timestamp": "2026-02-23T18:19:02Z",
+      "level": "INFO",
+      "component": "Planner",
+      "event": "metadata_generated",
+      "file": "2026-02-23_TestTask.txt",
+      "status": "success",
+      "message": "METADATA_2026-02-23_TestTask.txt.md written to /Plans."
+    },
+    {
+      "timestamp": "2026-02-23T18:19:02Z",
+      "level": "INFO",
+      "component": "Dashboard",
+      "event": "dashboard_updated",
+      "file": "2026-02-23_TestTask.txt",
+      "status": "success",
+      "message": "Dashboard.md metrics updated."
+    },
+    {
+      "timestamp": "2026-02-23T18:19:54Z",
+      "level": "WARN",
+      "component": "Router",
+      "event": "file_rejected",
+      "file": "2026-02-23_BadFile.exe",
+      "status": "failed",
+      "message": "Rejected: unsupported extension '.exe'"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "date": "2026-03-05T22:48:59.573433+00:00",
+  "total": 66,
+  "passed": 66,
+  "failed": 0,
+  "pct": 100.0,
+  "results": [
+    {
+      "name": "Playwright installed",
+      "passed": true,
+      "detail": "sync_api importable"
+    },
+    {
+      "name": "Chromium browser downloaded",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "WhatsApp Watcher import",
+      "passed": true,
+      "detail": "VAULT=D:\\AI_Employee_Vault"
+    },
+    {
+      "name": "WhatsApp keywords loaded",
+      "passed": true,
+      "detail": "5 keywords"
+    },
+    {
+      "name": "WhatsApp seen registry path",
+      "passed": true,
+      "detail": "D:\\AI_Employee_Vault\\Skills\\WhatsApp_Watcher\\.whatsapp_seen.json"
+    },
+    {
+      "name": "LinkedIn Watcher import",
+      "passed": true,
+      "detail": "VAULT=D:\\AI_Employee_Vault"
+    },
+    {
+      "name": "LinkedIn service keywords",
+      "passed": true,
+      "detail": "18 keywords"
+    },
+    {
+      "name": "LinkedIn seen registry path",
+      "passed": true,
+      "detail": "D:\\AI_Employee_Vault\\Skills\\LinkedIn_Watcher\\.linkedin_seen.json"
+    },
+    {
+      "name": "PM2 daemon running",
+      "passed": true,
+      "detail": "4 apps"
+    },
+    {
+      "name": "PM2 file-watcher",
+      "passed": true,
+      "detail": "online"
+    },
+    {
+      "name": "PM2 gmail-watcher",
+      "passed": true,
+      "detail": "online"
+    },
+    {
+      "name": "PM2 approval-gate",
+      "passed": true,
+      "detail": "online"
+    },
+    {
+      "name": "PM2 approval-watcher",
+      "passed": true,
+      "detail": "online"
+    },
+    {
+      "name": "ecosystem.config.js",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PM2 process list saved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "daily_briefing.sh exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "daily_briefing.bat exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "ceo_briefing.sh exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "ceo_briefing.bat exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Scheduled: DailyBriefing",
+      "passed": true,
+      "detail": "registered in Task Scheduler"
+    },
+    {
+      "name": "Scheduled: CEOBriefing",
+      "passed": true,
+      "detail": "registered in Task Scheduler"
+    },
+    {
+      "name": "FS Watcher import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "FS Watcher VAULT_PATH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "FS Watcher Needs_Action dir",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Gmail Watcher import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Gmail VAULT_PATH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Gmail USER set",
+      "passed": true,
+      "detail": "areebabano986@gmail.com"
+    },
+    {
+      "name": "Gmail APP_PASSWORD set",
+      "passed": true,
+      "detail": "***lgra"
+    },
+    {
+      "name": "Approval Gate import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Approval Gate scan_plans()",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Approval Watcher import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Watcher: process_approved()",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Watcher: process_rejected()",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Watcher: DONE_DIR",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Plan Generator import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Plans dir exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Daily Briefing import",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "DAILY_BRIEFING.md exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CEO Briefing SKILL.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CEO: Revenue Analysis step",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CEO: Task Completion step",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CEO: Bottleneck Detection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CEO: Subscription Audit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CEO: Proactive Suggestions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Business_Goals.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "audit-rules.md",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Briefings/ dir",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CLAUDE.md exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "AGENTS.md exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Dashboard.md exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": ".env root exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Stop Hook config",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Stop Hook script",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Drop_Folder/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Inbox/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Needs_Action/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Plans/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Pending_Approval/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Approved/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Rejected/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Done/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "/Logs/ exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Today log file exists",
+      "passed": true,
+      "detail": "2026-03-05.json"
+    },
+    {
+      "name": "Log has entries",
+      "passed": true,
+      "detail": "12 entries"
+    },
+    {
+      "name": "No ERROR-level log entries",
+      "passed": true,
+      "detail": "clean"
+    },
+    {
+      "name": "Logs/ has JSON files",
+      "passed": true,
+      "detail": "5 file(s)"
+    }
+  ]
+}

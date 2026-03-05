@@ -1,0 +1,3 @@
+# Gmail Watcher — Bronze Tier
+# imaplib and email are Python standard library — no extra install needed.
+python-dotenv>=1.0.0

@@ -1,0 +1,48 @@
+2026-02-25 06:49:39,061  [INFO    ]  ==============================================================
+2026-02-25 06:49:39,062  [INFO    ]    Plan Generator  —  Bronze Tier Brain Layer
+2026-02-25 06:49:39,063  [INFO    ]    Vault         : D:\AI_Employee_Vault
+2026-02-25 06:49:39,064  [INFO    ]    Needs_Action  : D:\AI_Employee_Vault\Needs_Action
+2026-02-25 06:49:39,065  [INFO    ]    Plans         : D:\AI_Employee_Vault\Plans
+2026-02-25 06:49:39,065  [INFO    ]    Mode          : single pass
+2026-02-25 06:49:39,066  [INFO    ]  ==============================================================
+2026-02-25 06:49:39,070  [INFO    ]  No .md files found in Needs_Action.
+2026-02-25 06:49:39,077  [INFO    ]  Done.
+2026-02-25 06:58:50,647  [INFO    ]  ==============================================================
+2026-02-25 06:58:50,653  [INFO    ]    Plan Generator  —  Bronze Tier Brain Layer
+2026-02-25 06:58:50,654  [INFO    ]    Vault         : D:\AI_Employee_Vault
+2026-02-25 06:58:50,655  [INFO    ]    Needs_Action  : D:\AI_Employee_Vault\Needs_Action
+2026-02-25 06:58:50,656  [INFO    ]    Plans         : D:\AI_Employee_Vault\Plans
+2026-02-25 06:58:50,657  [INFO    ]    Mode          : single pass
+2026-02-25 06:58:50,658  [INFO    ]  ==============================================================
+2026-02-25 06:58:50,660  [INFO    ]  Found 1 .md file(s) in Needs_Action.
+2026-02-25 06:58:50,669  [INFO    ]  Plan written  [HIGH  ]  →  PLAN_EMAIL_20260225_110000_Test.md
+2026-02-25 06:58:50,685  [INFO    ]  Plans created this pass: 1
+2026-02-25 06:58:50,687  [INFO    ]  Done.
+2026-03-01 00:36:48,700  [INFO    ]  ==============================================================
+2026-03-01 00:36:48,702  [INFO    ]    Plan Generator  —  Silver Tier Brain Layer
+2026-03-01 00:36:48,702  [INFO    ]    Vault         : D:\AI_Employee_Vault
+2026-03-01 00:36:48,703  [INFO    ]    Needs_Action  : D:\AI_Employee_Vault\Needs_Action
+2026-03-01 00:36:48,703  [INFO    ]    Plans         : D:\AI_Employee_Vault\Plans
+2026-03-01 00:36:48,703  [INFO    ]    Engine        : rule-based fallback (set ANTHROPIC_API_KEY to enable AI)
+2026-03-01 00:36:48,704  [INFO    ]    Mode          : single pass
+2026-03-01 00:36:48,705  [INFO    ]  ==============================================================
+2026-03-01 00:36:48,706  [INFO    ]  Found 2 .md file(s) in Needs_Action.
+2026-03-01 00:36:48,715  [INFO    ]  Plan written  [HIGH]  →  PLAN_EMAIL_TEST_SILVER.md
+2026-03-01 00:36:48,725  [INFO    ]  Dashboard updated — 1 new plan(s) logged.
+2026-03-01 00:36:48,728  [INFO    ]  Plans created this pass: 1
+2026-03-01 00:36:48,729  [INFO    ]  Done.
+2026-03-06 01:28:57,325  [INFO    ]  ==============================================================
+2026-03-06 01:28:57,329  [INFO    ]    Daily Briefing  —  Bronze Tier Brain Layer
+2026-03-06 01:28:57,329  [INFO    ]    Vault         : D:\AI_Employee_Vault
+2026-03-06 01:28:57,329  [INFO    ]    Briefing file : DAILY_BRIEFING.md
+2026-03-06 01:28:57,329  [INFO    ]  ==============================================================
+2026-03-06 01:28:57,330  [INFO    ]  Scanning vault …
+2026-03-06 01:28:57,344  [INFO    ]    Needs_Action : 5 item(s)
+2026-03-06 01:28:57,345  [INFO    ]    Plans        : 7 plan(s)
+2026-03-06 01:28:57,346  [INFO    ]    Done         : 8 item(s)
+2026-03-06 01:28:57,346  [WARNING ]    HIGH priority: 1 item(s) require immediate attention!
+2026-03-06 01:28:57,348  [INFO    ]  Briefing written  →  DAILY_BRIEFING.md
+2026-03-06 01:28:57,353  [INFO    ]  Dashboard.md updated.
+2026-03-06 01:28:57,353  [INFO    ]  Daily Briefing complete.
+2026-03-06 01:28:57,353  [WARNING ]  ACTION NEEDED: 1 HIGH-priority item(s) are pending!
+2026-03-06 01:28:57,353  [INFO    ]  Open DAILY_BRIEFING.md in Obsidian to review.

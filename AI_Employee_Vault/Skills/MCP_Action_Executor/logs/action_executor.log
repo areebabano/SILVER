@@ -1,0 +1,199 @@
+2026-03-01 01:45:26,503  [INFO    ]  ==============================================================
+2026-03-01 01:45:26,503  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-01 01:45:26,504  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-01 01:45:26,504  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-01 01:45:26,505  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-01 01:45:26,506  [INFO    ]    DRY_RUN   : False
+2026-03-01 01:45:26,506  [INFO    ]    Playwright: NOT installed
+2026-03-01 01:45:26,507  [INFO    ]    Mode      : single pass
+2026-03-01 01:45:26,507  [INFO    ]  ==============================================================
+2026-03-01 01:45:26,510  [INFO    ]  Found 1 approved file(s).
+2026-03-01 01:45:26,511  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-01 01:45:26,520  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-01 01:49:54,944  [INFO    ]  ==============================================================
+2026-03-01 01:49:54,944  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-01 01:49:54,945  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-01 01:49:54,945  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-01 01:49:54,945  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-01 01:49:54,946  [INFO    ]    DRY_RUN   : False
+2026-03-01 01:49:54,946  [INFO    ]    Playwright: NOT installed
+2026-03-01 01:49:54,946  [INFO    ]    Mode      : single pass
+2026-03-01 01:49:54,947  [INFO    ]  ==============================================================
+2026-03-01 01:49:54,948  [INFO    ]  Found 1 approved file(s).
+2026-03-01 01:49:54,948  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-01 01:49:54,951  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-01 01:51:38,251  [INFO    ]  ==============================================================
+2026-03-01 01:51:38,251  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-01 01:51:38,252  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-01 01:51:38,252  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-01 01:51:38,253  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-01 01:51:38,253  [INFO    ]    DRY_RUN   : False
+2026-03-01 01:51:38,253  [INFO    ]    Playwright: NOT installed
+2026-03-01 01:51:38,253  [INFO    ]    Mode      : single pass
+2026-03-01 01:51:38,254  [INFO    ]  ==============================================================
+2026-03-01 01:51:38,254  [INFO    ]  Found 1 approved file(s).
+2026-03-01 01:51:38,255  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-01 01:51:38,256  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-01 01:51:51,482  [INFO    ]  ==============================================================
+2026-03-01 01:51:51,482  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-01 01:51:51,483  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-01 01:51:51,483  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-01 01:51:51,483  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-01 01:51:51,484  [INFO    ]    DRY_RUN   : False
+2026-03-01 01:51:51,484  [INFO    ]    Playwright: NOT installed
+2026-03-01 01:51:51,484  [INFO    ]    Mode      : single pass
+2026-03-01 01:51:51,485  [INFO    ]  ==============================================================
+2026-03-01 01:51:51,486  [INFO    ]  Found 1 approved file(s).
+2026-03-01 01:51:51,486  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-01 01:51:51,488  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-01 01:53:45,451  [INFO    ]  ==============================================================
+2026-03-01 01:53:45,452  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-01 01:53:45,452  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-01 01:53:45,453  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-01 01:53:45,453  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-01 01:53:45,453  [INFO    ]    DRY_RUN   : False
+2026-03-01 01:53:45,453  [INFO    ]    Playwright: NOT installed
+2026-03-01 01:53:45,453  [INFO    ]    Mode      : single pass
+2026-03-01 01:53:45,454  [INFO    ]  ==============================================================
+2026-03-01 01:53:45,454  [INFO    ]  Found 1 approved file(s).
+2026-03-01 01:53:45,455  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-01 01:53:45,456  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-01 02:26:14,139  [INFO    ]  ==============================================================
+2026-03-01 02:26:14,140  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-01 02:26:14,140  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-01 02:26:14,140  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-01 02:26:14,141  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-01 02:26:14,141  [INFO    ]    DRY_RUN   : False
+2026-03-01 02:26:14,142  [INFO    ]    Playwright: NOT installed
+2026-03-01 02:26:14,142  [INFO    ]    Mode      : single pass
+2026-03-01 02:26:14,142  [INFO    ]  ==============================================================
+2026-03-01 02:26:14,143  [INFO    ]  Found 1 approved file(s).
+2026-03-01 02:26:14,144  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-01 02:26:14,145  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-01 02:26:14,153  [INFO    ]  Dashboard updated.
+2026-03-01 02:26:14,154  [ERROR   ]  Action FAILED [APPROVAL_REQUEST]  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md: Recipient address is empty.  Add 'to_email: address@example.com' to the approved plan front matter, or ensure the source Needs_Action file has a valid 'from:' field.
+2026-03-01 02:26:14,155  [INFO    ]  Done — 0 action(s) executed.
+2026-03-01 02:29:51,134  [INFO    ]  ==============================================================
+2026-03-01 02:29:51,134  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-01 02:29:51,135  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-01 02:29:51,135  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-01 02:29:51,135  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-01 02:29:51,136  [INFO    ]    DRY_RUN   : False
+2026-03-01 02:29:51,136  [INFO    ]    Playwright: NOT installed
+2026-03-01 02:29:51,136  [INFO    ]    Mode      : single pass
+2026-03-01 02:29:51,136  [INFO    ]  ==============================================================
+2026-03-01 02:29:51,138  [INFO    ]  Found 1 approved file(s).
+2026-03-01 02:29:51,138  [INFO    ]  Done — 0 action(s) executed.
+2026-03-03 00:23:47,393  [INFO    ]  ==============================================================
+2026-03-03 00:23:47,394  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-03 00:23:47,395  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-03 00:23:47,395  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-03 00:23:47,396  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-03 00:23:47,396  [INFO    ]    DRY_RUN   : True
+2026-03-03 00:23:47,396  [INFO    ]    Playwright: NOT installed
+2026-03-03 00:23:47,396  [INFO    ]    Mode      : single pass
+2026-03-03 00:23:47,397  [INFO    ]  ==============================================================
+2026-03-03 00:23:47,397  [WARNING ]  ==============================================================
+2026-03-03 00:23:47,397  [WARNING ]    DRY_RUN IS ACTIVE — no emails, messages, or files will
+2026-03-03 00:23:47,397  [WARNING ]    be sent or moved.  All actions will be logged only.
+2026-03-03 00:23:47,398  [WARNING ]  ==============================================================
+2026-03-03 00:23:47,400  [INFO    ]  Found 2 approved file(s).
+2026-03-03 00:23:47,400  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_NO_RECIPIENT_TEST_20260302_192023.md
+2026-03-03 00:23:47,404  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_NO_RECIPIENT_TEST_20260302_192023.md — using generic template.
+2026-03-03 00:23:47,443  [INFO    ]  Dashboard updated.
+2026-03-03 00:23:47,444  [ERROR   ]  Action FAILED [APPROVAL_REQUEST]  →  APPROVAL_PLAN_EMAIL_NO_RECIPIENT_TEST_20260302_192023.md: Recipient address is empty.  Add 'to_email: address@example.com' to the approved plan front matter, or ensure the source Needs_Action file has a valid 'from:' field.
+2026-03-03 00:23:47,444  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-03 00:23:47,445  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-03 00:23:47,572  [INFO    ]  Dashboard updated.
+2026-03-03 00:23:47,574  [ERROR   ]  Action FAILED [APPROVAL_REQUEST]  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md: Recipient address is empty.  Add 'to_email: address@example.com' to the approved plan front matter, or ensure the source Needs_Action file has a valid 'from:' field.
+2026-03-03 00:23:47,575  [INFO    ]  Done — 0 action(s) executed.
+2026-03-03 00:28:34,650  [INFO    ]  ==============================================================
+2026-03-03 00:28:34,653  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-03 00:28:34,653  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-03 00:28:34,654  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-03 00:28:34,655  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-03 00:28:34,656  [INFO    ]    DRY_RUN   : True
+2026-03-03 00:28:34,657  [INFO    ]    Playwright: NOT installed
+2026-03-03 00:28:34,657  [INFO    ]    Mode      : single pass
+2026-03-03 00:28:34,658  [INFO    ]  ==============================================================
+2026-03-03 00:28:34,659  [WARNING ]  ==============================================================
+2026-03-03 00:28:34,660  [WARNING ]    DRY_RUN IS ACTIVE — no emails, messages, or files will
+2026-03-03 00:28:34,660  [WARNING ]    be sent or moved.  All actions will be logged only.
+2026-03-03 00:28:34,660  [WARNING ]  ==============================================================
+2026-03-03 00:28:34,675  [INFO    ]  Found 3 approved file(s).
+2026-03-03 00:28:34,675  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_MALFORMED_TEST_20260302_192541.md
+2026-03-03 00:28:34,681  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_MALFORMED_TEST_20260302_192541.md — using generic template.
+2026-03-03 00:28:34,700  [INFO    ]  Dashboard updated.
+2026-03-03 00:28:34,701  [ERROR   ]  Action FAILED [APPROVAL_REQUEST]  →  APPROVAL_PLAN_EMAIL_MALFORMED_TEST_20260302_192541.md: Recipient address is empty.  Add 'to_email: address@example.com' to the approved plan front matter, or ensure the source Needs_Action file has a valid 'from:' field.
+2026-03-03 00:28:34,702  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_NO_RECIPIENT_TEST_20260302_192023.md
+2026-03-03 00:28:34,703  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_NO_RECIPIENT_TEST_20260302_192023.md — using generic template.
+2026-03-03 00:28:34,824  [INFO    ]  Dashboard updated.
+2026-03-03 00:28:34,855  [ERROR   ]  Action FAILED [APPROVAL_REQUEST]  →  APPROVAL_PLAN_EMAIL_NO_RECIPIENT_TEST_20260302_192023.md: Recipient address is empty.  Add 'to_email: address@example.com' to the approved plan front matter, or ensure the source Needs_Action file has a valid 'from:' field.
+2026-03-03 00:28:34,856  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md
+2026-03-03 00:28:34,857  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md — using generic template.
+2026-03-03 00:28:34,957  [INFO    ]  Dashboard updated.
+2026-03-03 00:28:34,961  [ERROR   ]  Action FAILED [APPROVAL_REQUEST]  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md: Recipient address is empty.  Add 'to_email: address@example.com' to the approved plan front matter, or ensure the source Needs_Action file has a valid 'from:' field.
+2026-03-03 00:28:34,973  [INFO    ]  Done — 0 action(s) executed.
+2026-03-03 01:02:40,464  [INFO    ]  ==============================================================
+2026-03-03 01:02:40,466  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-03 01:02:40,467  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-03 01:02:40,467  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-03 01:02:40,468  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-03 01:02:40,468  [INFO    ]    DRY_RUN   : True
+2026-03-03 01:02:40,468  [INFO    ]    Playwright: NOT installed
+2026-03-03 01:02:40,468  [INFO    ]    Mode      : single pass
+2026-03-03 01:02:40,469  [INFO    ]  ==============================================================
+2026-03-03 01:02:40,470  [WARNING ]  ==============================================================
+2026-03-03 01:02:40,470  [WARNING ]    DRY_RUN IS ACTIVE — no emails, messages, or files will
+2026-03-03 01:02:40,470  [WARNING ]    be sent or moved.  All actions will be logged only.
+2026-03-03 01:02:40,470  [WARNING ]  ==============================================================
+2026-03-03 01:02:40,475  [INFO    ]  Found 1 approved file(s).
+2026-03-03 01:02:40,475  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_195941.md
+2026-03-03 01:02:40,480  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_195941.md — using generic template.
+2026-03-03 01:02:40,480  [INFO    ]  [DRY_RUN] Would send EMAIL to 'client@test.com' — preview: Hi,  Thank you for your message. I have reviewed your request and will follow up shortly with further details.  Kind regards, [YOUR NAME]…
+2026-03-03 01:02:40,583  [INFO    ]  Dashboard updated.
+2026-03-03 01:02:40,584  [INFO    ]  Action completed [EMAIL]  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_195941.md
+2026-03-03 01:02:40,584  [INFO    ]  Done — 1 action(s) executed.
+2026-03-03 01:39:49,824  [INFO    ]  ==============================================================
+2026-03-03 01:39:49,856  [INFO    ]    MCP Action Executor  —  Gold Tier Agent Skill
+2026-03-03 01:39:49,856  [INFO    ]    Vault     : D:\AI_Employee_Vault
+2026-03-03 01:39:49,857  [INFO    ]    Approved  : D:\AI_Employee_Vault\Approved
+2026-03-03 01:39:49,857  [INFO    ]    Actor     : AI Employee (Gold Tier)
+2026-03-03 01:39:49,857  [INFO    ]    DRY_RUN   : True
+2026-03-03 01:39:49,858  [INFO    ]    Playwright: NOT installed
+2026-03-03 01:39:49,858  [INFO    ]    Mode      : single pass
+2026-03-03 01:39:49,859  [INFO    ]  ==============================================================
+2026-03-03 01:39:49,859  [WARNING ]  ==============================================================
+2026-03-03 01:39:49,859  [WARNING ]    DRY_RUN IS ACTIVE — no emails, messages, or files will
+2026-03-03 01:39:49,859  [WARNING ]    be sent or moved.  All actions will be logged only.
+2026-03-03 01:39:49,859  [WARNING ]  ==============================================================
+2026-03-03 01:39:49,861  [INFO    ]  Found 6 approved file(s).
+2026-03-03 01:39:49,861  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_BAD_SOURCE_20260302_203758.md
+2026-03-03 01:39:49,872  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_BAD_SOURCE_20260302_203758.md — using generic template.
+2026-03-03 01:39:49,873  [INFO    ]  [DRY_RUN] Would send EMAIL to 'ghost@nowhere.com' — preview: Hi,  Thank you for your message. I have reviewed your request and will follow up shortly with further details.  Kind regards, [YOUR NAME]…
+2026-03-03 01:39:49,928  [INFO    ]  Dashboard updated.
+2026-03-03 01:39:49,929  [INFO    ]  Action completed [EMAIL]  →  APPROVAL_PLAN_EMAIL_BAD_SOURCE_20260302_203758.md
+2026-03-03 01:39:49,930  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_BATCH_A_20260302_203758.md
+2026-03-03 01:39:49,932  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_BATCH_A_20260302_203758.md — using generic template.
+2026-03-03 01:39:49,933  [INFO    ]  [DRY_RUN] Would send EMAIL to 'alice@example.com' — preview: Hi,  Thank you for your message. I have reviewed your request and will follow up shortly with further details.  Kind regards, [YOUR NAME]…
+2026-03-03 01:39:49,983  [INFO    ]  Dashboard updated.
+2026-03-03 01:39:49,984  [INFO    ]  Action completed [EMAIL]  →  APPROVAL_PLAN_EMAIL_BATCH_A_20260302_203758.md
+2026-03-03 01:39:49,984  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_BATCH_B_20260302_203758.md
+2026-03-03 01:39:49,986  [INFO    ]  [DRY_RUN] Would send EMAIL to 'bob@example.com' — preview: Thanks for the follow-up, Bob. I'll review the notes and get back to you by EOD.…
+2026-03-03 01:39:50,060  [INFO    ]  Dashboard updated.
+2026-03-03 01:39:50,069  [INFO    ]  Action completed [EMAIL]  →  APPROVAL_PLAN_EMAIL_BATCH_B_20260302_203758.md
+2026-03-03 01:39:50,071  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_BATCH_C_20260302_203759.md
+2026-03-03 01:39:50,073  [INFO    ]  [DRY_RUN] Would send EMAIL to 'carol@example.com' — preview: Hi Carol,  Thank you for sending Invoice #4421. I confirm receipt and will process payment within our standard 30-day terms.  Best regards…
+2026-03-03 01:39:50,147  [INFO    ]  Dashboard updated.
+2026-03-03 01:39:50,151  [INFO    ]  Action completed [EMAIL]  →  APPROVAL_PLAN_EMAIL_BATCH_C_20260302_203759.md
+2026-03-03 01:39:50,151  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_NO_RECIPIENT_20260302_203759.md
+2026-03-03 01:39:50,152  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_NO_RECIPIENT_20260302_203759.md — using generic template.
+2026-03-03 01:39:50,153  [INFO    ]  [DRY_RUN] Would send EMAIL to 'unknown' — preview: Hi,  Thank you for your message. I have reviewed your request and will follow up shortly with further details.  Kind regards, [YOUR NAME]…
+2026-03-03 01:39:50,212  [INFO    ]  Dashboard updated.
+2026-03-03 01:39:50,213  [INFO    ]  Action completed [EMAIL]  →  APPROVAL_PLAN_EMAIL_NO_RECIPIENT_20260302_203759.md
+2026-03-03 01:39:50,214  [INFO    ]  Processing  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_203759.md
+2026-03-03 01:39:50,217  [WARNING ]  No Draft Reply section found in APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_203759.md — using generic template.
+2026-03-03 01:39:50,218  [INFO    ]  [DRY_RUN] Would send EMAIL to 'client@test.com' — preview: Hi,  Thank you for your message. I have reviewed your request and will follow up shortly with further details.  Kind regards, [YOUR NAME]…
+2026-03-03 01:39:50,329  [INFO    ]  Dashboard updated.
+2026-03-03 01:39:50,339  [INFO    ]  Action completed [EMAIL]  →  APPROVAL_PLAN_EMAIL_TEST_SILVER_20260302_203759.md
+2026-03-03 01:39:50,339  [INFO    ]  Done — 6 action(s) executed.

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "d9c38c92b329554b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7edb1c75bd9efd18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a88ddde26fb0b72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fccbeb7dc124f795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "addae2e1d6561b07",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b199edbdd956e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8087384f65bbd486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc732daa362c0fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2df43a31435babc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5982fd1f4f9b4134",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e49a1c0d4857988e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a20d326fbed4d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a5d43e509e5e78d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "caf61906259cdd4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "af0eae7834ad5eeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db243244c62dbb0e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2f2e83d82087e095",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a88ddde26fb0b72",
+  "lastOpenFiles": [
+    "Skills/README.md.tmp.10898.1771955779359",
+    "Skills/Daily_Briefing/examples/example_daily_briefing.md",
+    "Skills/Daily_Briefing/examples",
+    "Skills/Daily_Briefing/README.md",
+    "Skills/Daily_Briefing/requirements.txt",
+    "Skills/Daily_Briefing/daily_briefing.py",
+    "Skills/Daily_Briefing",
+    "Skills/Plan_Generator/examples/example_plan.md",
+    "Skills/Plan_Generator/examples",
+    "Skills/Plan_Generator/README.md",
+    "Skills/Plan_Generator/requirements.txt",
+    "Skills/Plan_Generator/plan_generator.py",
+    "Skills/Plan_Generator",
+    "Skills/README.md",
+    "Skills/File_System_Watcher/examples/example_file_action.md",
+    "Skills/File_System_Watcher/examples",
+    "Skills/File_System_Watcher/README.md",
+    "Skills/File_System_Watcher/requirements.txt",
+    "Skills/WhatsApp_Watcher/examples/example_whatsapp_action.md",
+    "Skills/WhatsApp_Watcher/README.md",
+    "Skills/Gmail_Watcher/examples/example_email_action.md",
+    "Skills/Gmail_Watcher/README.md",
+    "Plans/METADATA_2026-02-23_TestTask.txt.md",
+    "INSTRUCTIONS.md",
+    "DAILY_SUMMARY_2026-02-23.md",
+    "Company_Handbook.md",
+    "Dashboard.md",
+    "Readme.md",
+    "Welcome.md"
+  ]
+}

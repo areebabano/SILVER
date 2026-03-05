@@ -1,0 +1,11 @@
+{
+  "_comment": "Add trusted email domains and addresses here. Recipients NOT in this list will trigger a send_email approval request.",
+  "domains": [
+    "mycompany.com",
+    "trustedpartner.com"
+  ],
+  "addresses": [
+    "boss@company.com",
+    "accountant@firm.com"
+  ]
+}

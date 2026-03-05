@@ -1,0 +1,1 @@
+{"timestamp": "2026-02-28T20:09:51Z", "level": "AUDIT", "component": "ApprovalGate", "event": "approval_request_created", "file": "APPROVAL_PLAN_EMAIL_TEST_SILVER_20260228_200951.md", "source_plan": "PLAN_EMAIL_TEST_SILVER.md", "recipient": "client@test.com", "status": "success", "actor": "Approval Gate (Silver Tier)"}
